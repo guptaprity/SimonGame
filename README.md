@@ -10,7 +10,6 @@
     - Click or tap the colors in the same order as Simon played them.
     - If you make a mistake, the game will end, and your score will be displayed.
 
-
 ## Technologies used :
    1. HTML
    2. CSS
