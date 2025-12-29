@@ -21,3 +21,4 @@
 
 ## Link :
    url : https://github.com/guptaprity/SimonGame
+   Live link : https://guptaprity.github.io/SimonGame/
